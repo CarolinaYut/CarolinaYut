@@ -11,42 +11,52 @@
   </a>
 </p>
 
+<p>
+Estudiante de Ciencias de la Computación (FaMAF - UNC) en Córdoba, Argentina.  
+En búsqueda de mi primera experiencia profesional en desarrollo backend.  
+Me interesa el software desde sus fundamentos: pensar la lógica, modelar correctamente los datos y escribir código claro y consistente.	
+</p>	
 
-<br>
-
-	
-**About me**
-Computer Science student with a strong interest in software development and web technologies.  
-I enjoy learning new things, building projects, and continuously improving my skills.
-
-
-<br>
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
-<b> Skills</b>
-<br>
-
-### Languages
-![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-
-![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+### Tecnologías 
 
 
-### Front-End
-![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+### Lenguajes
+<p>
+  <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Haskell-purple?style=for-the-badge&logo=haskell&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
-### Tools
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+### Bases de datos
+<p>
+  <img src="https://img.shields.io/badge/SQL-grey?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
+### Herramientas
+<p>
+  <img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
-### Extras
-![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
+## Intereses
 
+- Desarrollo backend
+- Modelado de datos
+- Bases de datos relacionales
+- Resolución de problemas algorítmicos
+
+## 📚 Actualmente
+
+- Profundizando en SQL y bases de datos
+- Construyendo pequeños proyectos en Python
+- Mejorando mi comprensión de programación funcional
+
+## 📫 Contacto
+
+- Email: yutcarolina@gmail.com
+- LinkedIn: https://www.linkedin.com/in/carolina-yut
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient" />
 
