@@ -36,8 +36,10 @@ Me interesa el software desde sus fundamentos: pensar la lógica, modelar correc
 ### Herramientas
 <p>
   <img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Markdown-%23000000?style=for-the-badge&logo=markdown&logoColor=white"/>
 </p>
 
 ## Intereses
@@ -47,13 +49,13 @@ Me interesa el software desde sus fundamentos: pensar la lógica, modelar correc
 - Bases de datos relacionales
 - Resolución de problemas algorítmicos
 
-## 📚 Actualmente
+## Actualmente
 
 - Profundizando en SQL y bases de datos
 - Construyendo pequeños proyectos en Python
 - Mejorando mi comprensión de programación funcional
 
-## 📫 Contacto
+## Contacto
 
 - Email: yutcarolina@gmail.com
 - LinkedIn: https://www.linkedin.com/in/carolina-yut
